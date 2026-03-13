@@ -168,6 +168,8 @@ Possible improvements for the project:
 
 ---
 
-# 👨‍💻 Author
-
-**Charan Teja Kolipakula**
+## **👤 Author**
+ ```
+ Charan Teja Kolipakula
+ Machine Learning & Data Science Enthusiast
+ ```
